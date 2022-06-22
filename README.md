@@ -2,13 +2,13 @@
 
 📖 Estudante de ADS.
 
-📘 Conhecimento em Java.
+📕Conhecimento em Java.
 
 📗 Conhecimento em HTML/CSS.
 
-📙 Conhecimento em PHP .
+📘Conhecimento em PHP .
 
-📕 Conhecimento em JavaScript.
+📙Conhecimento em JavaScript.
 
 ##
 
