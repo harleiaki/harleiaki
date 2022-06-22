@@ -4,7 +4,7 @@
 📘 Conhecimento em Java
 📗 Conhecimento em HTML/CSS
 📙 Conhecimento em PHP 
-
+📕 Conhecimento em JavaScript
 
 <div align="center">
   <a href="https://github.com/harleiaki">
