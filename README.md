@@ -1,9 +1,13 @@
 # Olá eu sou Harlei
 
 📖 Estudante de ADS.
+
 📘 Conhecimento em Java.
+
 📗 Conhecimento em HTML/CSS.
+
 📙 Conhecimento em PHP .
+
 📕 Conhecimento em JavaScript.
 
 <div align="center">
