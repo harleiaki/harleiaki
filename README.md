@@ -18,8 +18,6 @@
   <img height="216em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
 </div>
   
-  ##
-  
   <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
