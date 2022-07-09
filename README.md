@@ -30,6 +30,7 @@
   ##
   
   <div>
+    <a href="https://https://discord.com/connections/github?code=b3f2543a57a9e65e1ed8&state=516c3a734312c81f042acc7585370fcb" target="_blank"><img align="left" src="https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.facebook.com/harlei.aki/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/harlei.akira/" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
     <a href="https://www.linkedin.com/in/harlei-akira-750515224/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
