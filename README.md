@@ -1,6 +1,8 @@
 # Olá eu sou Harlei, seja bem-vindo ao meu github.
 
-📖 Estudante de ADS.
+📖 Estudante de ADS/ Ciencias de Dados.
+
+📖 Estudando SQL com S3,Athena.
 
 🔴Conhecimento em Java.
 
