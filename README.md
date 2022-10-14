@@ -1,4 +1,4 @@
-# Olá eu sou Harlei, seja bem-vindo ao meu github.
+# Olá eu sou Harlei, seja bem-vindo ao meu github. Estou construindo ainda
 
 📖 Estudante de ADS/ Ciencias de Dados.
 
