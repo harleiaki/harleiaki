@@ -4,11 +4,13 @@
 
 📖 Estudando SQL com S3,Athena.
 
-🔴Conhecimento em Java.
+🟠Java.
 
-🟠Conhecimento em HTML/CSS.
+🔴HTML/CSS.
 
-🟡Conhecimento em JavaScript.
+🟡JavaScript.
+
+🔵Python
 
 ##
 
