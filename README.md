@@ -4,17 +4,17 @@
 
 📖 Estudando SQL com S3,Athena.
 
-🟠Java.
+🟠Java basico.
 
-🔴HTML/CSS.
+🔴HTML/CSS basico.
 
-🟡JavaScript.
+🟡JavaScript basico.
 
-🔵Python.
+🔵Python basico.
 
-🟣PHP.
+🟣PHP iniciante.
 
-🟢SQL.
+🟢SQL basico.
 
 ##
 
