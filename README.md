@@ -2,7 +2,7 @@
 
 📖 Estudante de ADS/ Ciencias de Dados.
 
-📖 Estudando SQL com S3,Athena.
+📖 Árvore de decisão, visualização de dados, padronização, Big Data e Machine Learning.
 
 🟠Java basico.
 
