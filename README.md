@@ -26,7 +26,7 @@
 <div style="display: inline_block"><br>
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <a href="https://icons8.com/icons/set/jupyter"></a>
+   ![jupyter](https://user-images.githubusercontent.com/96266332/224888885-a70947a6-7f1b-4a33-8395-007a1d15ebbd.png)
 </div>
   
   ##
