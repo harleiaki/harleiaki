@@ -10,7 +10,7 @@
 
 🟡JavaScript/React Native - basico.
 
-🔵Python - basico.
+🔵Python/Jupyter - basico.
 
 🟣PHP - iniciante.
 
