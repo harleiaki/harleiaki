@@ -26,7 +26,7 @@
 <div style="display: inline_block"><br>
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <img height="32" width="32" src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" />
+    <svg data-testid="DeleteIcon"></svg>
 </div>
   
   ##
