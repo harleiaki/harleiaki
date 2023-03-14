@@ -28,8 +28,7 @@
 <div style="display: inline_block"><br>
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-<Badge color="secondary" badgeContent={1000} max={999}>
-  <MailIcon /></Badge>
+    <img height="right" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
   
   ##
