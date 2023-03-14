@@ -40,7 +40,6 @@
     <a href="https://www.linkedin.com/in/harlei-akira-750515224/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:harlei.akira@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
     <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    <a href = "https://dashboard.heroku.com/apps/despesa-harlei/deploy/github"><img align="left" src="https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku&logoColor=purple"></a>
 </div>
     
 ![Snake animation](https://github.com/harleiaki/harleiaki/blob/output/github-contribution-grid-snake.svg)
