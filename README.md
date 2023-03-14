@@ -4,17 +4,17 @@
 
 📖 Árvore de decisão, visualização de dados, padronização, Big Data e Machine Learning.
 
-🟠Java basico.
+🟠Java - basico.
 
-🔴HTML/CSS basico.
+🔴HTML/CSS - basico.
 
-🟡JavaScript/React Native basico.
+🟡JavaScript/React Native - basico.
 
-🔵Python basico.
+🔵Python - basico.
 
-🟣PHP iniciante.
+🟣PHP - iniciante.
 
-🟢SQL/S3/Athena basico.
+🟢SQL/S3/Athena - basico.
 
 ##
 
