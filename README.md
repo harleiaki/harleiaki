@@ -8,13 +8,13 @@
 
 🔴HTML/CSS basico.
 
-🟡JavaScript basico.
+🟡JavaScript/React Native basico.
 
 🔵Python basico.
 
 🟣PHP iniciante.
 
-🟢SQL basico.
+🟢SQL/S3/Athena basico.
 
 ##
 
