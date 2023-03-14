@@ -17,7 +17,9 @@
 🟢SQL/S3/Athena - basico.
 
 ##
-
+<Badge color="secondary" badgeContent={1000} max={999}>
+  <MailIcon />
+  
 <div align="center">
   <a href="https://github.com/harleiaki">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
