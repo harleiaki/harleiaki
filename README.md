@@ -29,7 +29,6 @@
     <img align="right"  height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right"  height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="right" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-      <img align="right" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/native/native-plain.svg">
 </div>
   
   ##
