@@ -24,14 +24,14 @@
 
 🟢SQL/S3/Athena - iniciante.
 
-##
 <Badge color="secondary" badgeContent={1000} max={999}>
   <MailIcon />
   
 <div align="center">
   <a href="https://github.com/harleiaki">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
+     </div>
 
   
   ## Projetos 
