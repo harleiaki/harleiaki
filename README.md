@@ -35,7 +35,7 @@
 
   ## Projetos 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=SOS-FILA&theme=dark)](https://github.com/harleiaki/S0S-FILA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=SOS-FILA&theme=dark)](https://github.com/harleiaki/SOS-FILA)
 
 <div style="display: inline_block"><br>
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
