@@ -33,6 +33,10 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
 
+  ## Projetos
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=)
+
+
 <div style="display: inline_block"><br>
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
