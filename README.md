@@ -33,7 +33,9 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
 
+  
   ## Projetos 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Certificado-Declaracao-Licenciatura&theme=onedark)](https://github.com/harleiaki/Certificado-Declaracao-Licenciatura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=SOS-FILA&theme=dark)](https://github.com/harleiaki/SOS-FILA)
