@@ -50,8 +50,6 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
      </div>
     
-</br>
-</br>
 
 <div style="display: inline_block"><br>
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -65,6 +63,9 @@
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
+
+    </br>
+</br>
 
   ## Projetos 
   
