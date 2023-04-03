@@ -11,7 +11,7 @@
 </div>
 
 ##
-
+---
 📖 Estudante de ADS/ Ciencias de Dados.
 
 📖 Árvore de decisão, visualização de dados, padronização, Big Data e Machine Learning.
