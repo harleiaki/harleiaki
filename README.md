@@ -10,6 +10,8 @@
       <a href = "https://expo.dev/accounts/harleiaki/snacks"><img align="left" src="https://img.shields.io/badge/Snack-0078D4?style=for-the-badge&logo=snack&logoColor=white"></a>
 </div>
 
+##
+
 📖 Estudante de ADS/ Ciencias de Dados.
 
 📖 Árvore de decisão, visualização de dados, padronização, Big Data e Machine Learning.
