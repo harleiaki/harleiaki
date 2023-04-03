@@ -9,6 +9,8 @@
     <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
       <a href = "https://expo.dev/accounts/harleiaki/snacks"><img align="left" src="https://img.shields.io/badge/Snack-0078D4?style=for-the-badge&logo=snack&logoColor=white"></a>
 </div>
+
+</br>
 </br>
 
 📖 Estudante de ADS/ Ciencias de Dados.
