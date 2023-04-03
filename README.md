@@ -17,7 +17,7 @@
 
 📖 Estudante de ADS/ Ciencias de Dados.
 
-📖 Árvore de decisão, visualização de dados, padronização, Big Data e Machine Learning.
+📖 Árvore de decisão, visualização de dados, padronização, Big Data, Machine Learning e Inteligência Artificial.
 
 🟠Java/Eclipse - basico. Intellij - iniciante. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
                                                <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
