@@ -7,7 +7,9 @@
     <a href="https://www.linkedin.com/in/harlei-akira-750515224/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:harlei.akira@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
     <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-      <a href = "https://expo.dev/accounts/harleiaki/snacks"><img align="left" src="https://img.shields.io/badge/Snack-0078D4?style=for-the-badge&logo=snack&logoColor=white"></a>
+      <a href = "https://expo.dev/accounts/harleiaki/snacks"><img align="left" src="https://img.shields.io/badge/Snack-ffffff?style=for-the-badge&logo=react&logoColor=blue"></a>
+          <a href = "https://github.com/harleiaki"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
+
 </div>
 
 </br>
