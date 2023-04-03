@@ -34,7 +34,7 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
 
   ## Projetos
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
