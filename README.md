@@ -73,13 +73,13 @@
 
   ## Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto02---Previsao_renda&theme=synthwave)](https://github.com/harleiaki/Projeto02---Previsao_renda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto1-Classificacao-credito&theme=tokyonight)](https://github.com/harleiaki/Projeto1-Classificacao-credito)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Certificado-Declaracao-Licenciatura&theme=onedark)](https://github.com/harleiaki/Certificado-Declaracao-Licenciatura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=SOS-FILA&theme=dark)](https://github.com/harleiaki/SOS-FILA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=app-pet-grupoPI&theme=merko)](https://github.com/harleiaki/app-pet-grupoPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=DataScience---EBAC&theme=gruvbox)](https://github.com/harleiaki/DataScience---EBAC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto02---Previsao_renda&theme=synthwave)](https://github.com/harleiaki/Projeto02---Previsao_renda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
 
 ## Commits
     
