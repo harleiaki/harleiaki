@@ -73,6 +73,7 @@
 
   ## Projetos 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Aplicativo_ler_csv-xlsx&theme=tokyonight)](https://github.com/harleiaki/Aplicativo_ler_csv-xlsx)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto02---Previsao_renda&theme=synthwave)](https://github.com/harleiaki/Projeto02---Previsao_renda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto1-Classificacao-credito&theme=tokyonight)](https://github.com/harleiaki/Projeto1-Classificacao-credito)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Certificado-Declaracao-Licenciatura&theme=onedark)](https://github.com/harleiaki/Certificado-Declaracao-Licenciatura)
