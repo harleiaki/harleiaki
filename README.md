@@ -87,5 +87,9 @@
 ## Commits
     
 ![Snake animation](https://github.com/harleiaki/harleiaki/blob/output/github-contribution-grid-snake.svg)
+
+
+![image](https://user-images.githubusercontent.com/96266332/233494902-0a6ca4ee-16b2-49db-bdd0-136edfe88883.png)
+
     
 
