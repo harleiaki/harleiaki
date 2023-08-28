@@ -82,7 +82,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=app-pet-grupoPI&theme=merko)](https://github.com/harleiaki/app-pet-grupoPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=DataScience---EBAC&theme=gruvbox)](https://github.com/harleiaki/DataScience---EBAC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=tokyonight)](https://github.com/harleiaki/Fintech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Fintech&theme=tokyonight)](https://github.com/harleiaki/Fintech)
 
 ## Commits
     
