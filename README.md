@@ -62,6 +62,7 @@
 
 <div style="display: inline_block"><br>
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -72,7 +73,6 @@
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img align="right"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 </br>
@@ -88,6 +88,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=DataScience---EBAC&theme=gruvbox)](https://github.com/harleiaki/DataScience---EBAC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Fintech&theme=tokyonight)](https://github.com/harleiaki/Fintech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=E-Commerce&theme=synthwave)](https://github.com/harleiaki/E-Commerce)
 
 ## Commits
     
