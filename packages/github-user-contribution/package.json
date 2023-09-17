@@ -1,0 +1,11 @@
+{
+  "name": "@snk/github-user-contribution",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "2.6.12"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "2.6.4",
+    "dotenv": "16.3.1"
+  }
+}
