@@ -45,7 +45,6 @@
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" >
                                   
-🟣PHP - iniciante.  <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
 
 🟢SQL/S3/Athena - iniciante.
 
