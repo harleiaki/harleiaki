@@ -91,7 +91,7 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Aplicativo_ler_csv-xlsx&theme=tokyonight)](https://github.com/harleiaki/Aplicativo_ler_csv-xlsx)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Fintech&theme=tokyonight)](https://github.com/harleiaki/Fintech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=E-Commerce&theme=gruvbox)](https://github.com/harleiaki/E-Commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=E-Chocolate2&theme=gruvbox)](https://github.com/harleiaki/E-Chocolate2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=SOS-FILA&theme=dark)](https://github.com/harleiaki/SOS-FILA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=app-pet-grupoPI&theme=merko)](https://github.com/harleiaki/app-pet-grupoPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=DataScience---EBAC&theme=gruvbox)](https://github.com/harleiaki/DataScience---EBAC)
