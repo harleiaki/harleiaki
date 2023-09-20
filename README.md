@@ -20,14 +20,14 @@
 
 📖 Árvore de decisão, visualização de dados, padronização, Big Data, Machine Learning e Inteligência Artificial.
 
-🟠Java/Eclipse - basico. Intellij - iniciante. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+🟠Java: Eclipse - Básico. Intellij - Iniciante. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
                                                <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 
 🔴HTML/CSS/VScode - basico. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
                              <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
                              <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
-🟡JavaScript/React/TypeScript/React Native/FireBase/VScode/npm/nodejs/Tailwindcss - basico. 
+🟡JavaScript: React/TypeScript/React Native/FireBase/VScode/npm/nodejs/Tailwindcss - básico. 
                                            <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
                                            <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                                            <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -38,7 +38,7 @@
                                            <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 
-🔵Python/Jupyter/Anaconda/PostgreSQL/VScode - Intermediário. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+🔵Python: Jupyter/Anaconda/PostgreSQL/VScode - Intermediário. <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
@@ -46,7 +46,7 @@
                                   <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" >
                                   
 
-🟢SQL/S3/Athena - iniciante.
+🟢SQL: S3/Athena - iniciante.
 
 ###
 
