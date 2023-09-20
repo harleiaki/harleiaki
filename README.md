@@ -51,14 +51,21 @@
 
 ###
 
-<Badge color="secondary" badgeContent={1000} max={999}>
-  <MailIcon />
-  
-<div align="center">
-  <a href="https://github.com/harleiaki">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&langs_count=7&theme=tokyonight"/>
-     </div>
+# My stats
+
+<center>
+	<table>
+		<tr>
+			<td>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&show_icons=true&langs_count=10&layout=compact&theme=dark&count_private=false"/>
+			</td>
+			<td>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?
+                    husername=harleiaki&theme=dark&?theme=dark&show_icons=true%count_private=false&include_all_commits=true"/>
+			</td>
+		</tr>
+	</table>
+</center>
     
 
 <div style="display: inline_block"><br>
