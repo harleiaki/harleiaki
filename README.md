@@ -8,13 +8,12 @@
     <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href = "https://snack.expo.dev/@harleiaki/tenacious-milkshake"><img align="left" src="https://img.shields.io/badge/Snack-ffffff?style=for-the-badge&logo=react&logoColor=blue"></a>
     <a href = "https://github.com/harleiaki"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
-
 </div>
 
 </br>
 </br>
 </br>
-</br>
+
 
 📖 Estudante de ADS/ Ciencias de Dados.
 
@@ -69,11 +68,9 @@
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
