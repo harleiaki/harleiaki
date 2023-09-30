@@ -1,5 +1,7 @@
-# Olá eu sou Harlei, seja bem-vindo ao meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<h1 align="center">Bem Vindo! 🚀</h1>
+<p align="center"> Olá eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
 
+<h1 align="center">Se conecte comigo 📬</h1>
 <div>
     <a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/harlei.aki/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -48,7 +50,7 @@
 
 ###
 
-# My stats
+<h1 align="center">My Profile Statistics 📊</h1>
 
 <center>
 	<table>
@@ -64,20 +66,23 @@
 </center>
     
 
-<div style="display: inline_block"><br>
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img align="left"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</div>
+<h1 align="center">Programando em 📜</h1>
+<p align="left">
+  <p align="center">
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  </p>
+</p>
 
 </br>
 </br>
 
-  ## Projetos 
+<h1 align="center">Projetos 📊</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Twitter&theme=dark)](https://github.com/harleiaki/Twitter)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Aplicativo_ler_csv-xlsx&theme=tokyonight)](https://github.com/harleiaki/Aplicativo_ler_csv-xlsx)  
