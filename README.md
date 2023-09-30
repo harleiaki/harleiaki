@@ -46,7 +46,7 @@
   CSS3<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   VScode<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
-🟠Java:Eclipse<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+🟠Java: Eclipse<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   Intellij<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 
 ###
