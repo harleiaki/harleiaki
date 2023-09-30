@@ -21,7 +21,9 @@
 </p>
 
 🧑‍🎓 Formado em ADS.
+
 📖 Estudante de Ciencias de Dados.
+
 📖 Árvore de decisão, visualização de dados, padronização, Big Data, Machine Learning e Inteligência Artificial.
 
 🔵Python<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
