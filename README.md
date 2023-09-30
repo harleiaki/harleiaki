@@ -1,5 +1,5 @@
 <h1 align="center">Bem Vindo! 🚀</h1>
-    <p align="center"> Olá eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
+    <p align="center"> Olá! eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
 
 <h1 align="center">Se conecte comigo: 📬</h1>
 <div>
@@ -17,7 +17,7 @@
 </br>
 
 <p>
-  <h1 align="center"> Linguagens: </h1>
+  <h1 align="center"> Linguagens usadas: </h1>
 </p>
 
 🧑‍🎓 Formado em ADS.
