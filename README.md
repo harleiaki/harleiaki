@@ -75,6 +75,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto1-Classificacao-credito&theme=tokyonight)](https://github.com/harleiaki/Projeto1-Classificacao-credito)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto02---Previsao_renda&theme=synthwave)](https://github.com/harleiaki/Projeto02---Previsao_renda)
 
-## Commits
+<h1 align="center">Commits: </h1>
     
 ![Snake animation](https://github.com/harleiaki/harleiaki/blob/output/github-contribution-grid-snake.svg)
