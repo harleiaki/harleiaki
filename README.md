@@ -48,7 +48,7 @@
 
 ###
 
-<h1 align="center">My Profile Statistics 📊</h1>
+<h1 align="center">My Profile Statistics: 📊</h1>
 
 <p align="left">
     <a href="https://github.com/harleiaki?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&theme=tokyonight" alt="harleiaki's GitHub Top Langs"/></a>
@@ -57,20 +57,21 @@
 </p>
     
 
-<h1 align="center">Programando em 💻</h1>
+<h1 align="center">Programando em: 💻</h1>
 <p align="left">
   <p align="center">
-      VScode<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      Jupyter<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-      Intellij<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      GoogleColab<img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+      <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+      <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />      
+      <img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
   </p>
 </p>
 
 </br>
 </br>
 
-<h1 align="center">Projetos ⚙️</h1>
+<h1 align="center">Projetos: ⚙️</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Twitter&theme=dark)](https://github.com/harleiaki/Twitter)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Aplicativo_ler_csv-xlsx&theme=tokyonight)](https://github.com/harleiaki/Aplicativo_ler_csv-xlsx)  
