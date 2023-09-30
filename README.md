@@ -17,7 +17,7 @@
 </br>
 
 <p>
-  <h1 align="center"> Programando usando: 💖</h1>
+  <h1 align="center"> Linguagens: </h1>
 </p>
 
 📖 Estudante de ADS/ Ciencias de Dados.
