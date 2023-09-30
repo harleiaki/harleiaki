@@ -5,7 +5,8 @@
 📖 Estudante de Ciencias de Dados e Inteligência Artificial.
 
 📖 Árvore de decisão, visualização de dados, padronização, Big Data, Machine Learning e Inteligência Artificial.
-    
+</br>    
+
 <h1 align="center">Se conecte comigo: 📬</h1>
 <div>
     <a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
