@@ -1,7 +1,7 @@
 <h1 align="center">Bem Vindo! 🚀</h1>
-<p align="center"> Olá eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
+    <p align="center"> Olá eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
 
-<h1 align="center">Se conecte comigo 📬</h1>
+<h1 align="center">Se conecte comigo: 📬</h1>
 <div>
     <a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/harlei.aki/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -16,6 +16,9 @@
 </br>
 </br>
 
+<p>
+  <h1 align="center"> Programando usando: 💖</h1>
+</p>
 
 📖 Estudante de ADS/ Ciencias de Dados.
 
@@ -37,7 +40,6 @@
   Nodejs<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
   Tailwindcss<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-
 🔵Python<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   Jupyter<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   Numpy<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
@@ -45,21 +47,16 @@
   PostgreSQL<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   Anaconda<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" >
                                   
-
 🟢SQL: S3/Athena.
 
 ###
 
 <h1 align="center">My Profile Statistics 📊</h1>
 
-<p align="center">
-  <a href="https://github.com/harleiaki"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=harleiaki&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
-  <br />
-  <a href="https://github.com/harleiaki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harleiaki&theme=tokyonight&hide_border=false&stroke=0000" alt="Taiizor's GitHub Streak Stats"/></a>
-  <br />
-  <a href="https://github.com/harleiaki"><img src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
-  <br />
-  <a href="https://github.com/harleiaki?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&theme=tokyonight" alt="Taiizor's GitHub Top Langs"/></a>
+<p align="left">
+    <a href="https://github.com/harleiaki?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&theme=tokyonight" alt="harleiaki's GitHub Top Langs"/></a>
+    <a href="https://github.com/harleiaki"><img src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="harleiaki's GitHub Stats"/></a>
+    <a href="https://github.com/harleiaki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harleiaki&theme=tokyonight&hide_border=false&stroke=0000" alt="harleiaki's GitHub Streak Stats"/></a>
 </p>
     
 
