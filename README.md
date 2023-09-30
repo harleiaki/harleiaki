@@ -52,18 +52,15 @@
 
 <h1 align="center">My Profile Statistics 📊</h1>
 
-<center>
-	<table>
-		<tr>
-			<td>
-				<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&show_icons=true&langs_count=10&layout=compact&theme=dark&count_private=false"/>
-			</td>
-			<td>
-				<img width="700px" align="left" src="https://github-readme-stats.vercel.app/api?username=harleiaki&theme=dark&?theme=dark&show_icons=true%count_private=false&include_all_commits=true"/>
-			</td>
-		</tr>
-	</table>
-</center>
+<p align="center">
+  <a href="https://github.com/harleiaki"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=harleiaki&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
+  <br />
+  <a href="https://github.com/harleiaki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harleiaki&theme=tokyonight&hide_border=false&stroke=0000" alt="Taiizor's GitHub Streak Stats"/></a>
+  <br />
+  <a href="https://github.com/harleiaki"><img src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
+  <br />
+  <a href="https://github.com/harleiaki?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&theme=tokyonight" alt="Taiizor's GitHub Top Langs"/></a>
+</p>
     
 
 <h1 align="center">Programando em 📜</h1>
@@ -82,7 +79,7 @@
 </br>
 </br>
 
-<h1 align="center">Projetos 📊</h1>
+<h1 align="center">Projetos ⚙️</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Twitter&theme=dark)](https://github.com/harleiaki/Twitter)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Aplicativo_ler_csv-xlsx&theme=tokyonight)](https://github.com/harleiaki/Aplicativo_ler_csv-xlsx)  
