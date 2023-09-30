@@ -20,14 +20,12 @@
 </br>
 
 <h1 align="center">Programando em: 💻</h1>
-<p align="left">
   <p align="center">
       <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
       <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />      
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />      
       <img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  </p>
 </p>
 
 <p>
@@ -55,18 +53,12 @@
 
 🟠Java<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-
-###
-
 <h1 align="center">My Profile Statistics: 📊</h1>
-
 <p align="left">
     <a href="https://github.com/harleiaki?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleiaki&layout=compact&theme=tokyonight" alt="harleiaki's GitHub Top Langs"/></a>
     <a href="https://github.com/harleiaki"><img src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="harleiaki's GitHub Stats"/></a>
     <a href="https://github.com/harleiaki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harleiaki&theme=tokyonight&hide_border=false&stroke=0000" alt="harleiaki's GitHub Streak Stats"/></a>
 </p>
-
-</br>
 </br>
 
 <h1 align="center">Projetos: ⚙️</h1>
