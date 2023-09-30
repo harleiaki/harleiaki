@@ -1,20 +1,16 @@
 <h1 align="center">Bem Vindo! 🚀</h1>
-    <p align="center"> Olá! eu sou Harlei, esse é o meu github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
+    <p align="center"> Olá! eu sou Harlei, esse é o meu Github. <img align=""  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></p>
 
-<h1 align="center">Se conecte comigo: 📬</h1>
-<div>
-    <a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.facebook.com/harlei.aki/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/harleykiriot/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-    <a href = "mailto:harlei.akira@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
-    <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    <a href = "https://snack.expo.dev/@harleiaki/tenacious-milkshake"><img align="left" src="https://img.shields.io/badge/Snack-ffffff?style=for-the-badge&logo=react&logoColor=blue"></a>
-    <a href = "https://github.com/harleiaki"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
-</div>
-
-</br>
-</br>
-</br>
+<h1 align="center">Programando em: 💻</h1>
+<p align="left">
+  <p align="center">
+      <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+      <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />      
+      <img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  </p>
+</p>
 
 <p>
   <h1 align="center"> Linguagens usadas: </h1>
@@ -57,18 +53,6 @@
     <a href="https://github.com/harleiaki"><img src="https://github-readme-stats.vercel.app/api?username=harleiaki&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="harleiaki's GitHub Stats"/></a>
     <a href="https://github.com/harleiaki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harleiaki&theme=tokyonight&hide_border=false&stroke=0000" alt="harleiaki's GitHub Streak Stats"/></a>
 </p>
-    
-
-<h1 align="center">Programando em: 💻</h1>
-<p align="left">
-  <p align="center">
-      <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
-      <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />      
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />      
-      <img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  </p>
-</p>
 
 </br>
 </br>
@@ -85,6 +69,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Jornada-dev&theme=synthwave)](https://github.com/harleiaki/Jornada-dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto1-Classificacao-credito&theme=tokyonight)](https://github.com/harleiaki/Projeto1-Classificacao-credito)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harleiaki&repo=Projeto02---Previsao_renda&theme=synthwave)](https://github.com/harleiaki/Projeto02---Previsao_renda)
+
+<h1 align="center">Se conecte comigo: 📬</h1>
+<div>
+    <a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.facebook.com/harlei.aki/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.instagram.com/harleykiriot/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:harlei.akira@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
+    <a href = "mailto:harlei.akira@outlook.com"><img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a href = "https://snack.expo.dev/@harleiaki/tenacious-milkshake"><img align="left" src="https://img.shields.io/badge/Snack-ffffff?style=for-the-badge&logo=react&logoColor=blue"></a>
+    <a href = "https://github.com/harleiaki"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
+</div>
+
 
 ## Commits
     
