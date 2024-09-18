@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <h1 align="center"> Linguagens e Frameworks usadas: </h1>
+  <h1 align="center"> Linguagens, Frameworks e Libs usadas: </h1>
 </p>
 
 🔵Python<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
